@@ -66,4 +66,4 @@ kubelet uses podspec files to determine what images to pull and container to run
 
 CRI - Cloud Runtime Interface
 CSI - Cloud Storage Interface
-CNI - Cloud Networking Interface
+CNI - Cloud Networking Interface 
