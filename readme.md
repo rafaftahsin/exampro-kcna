@@ -18,3 +18,6 @@ Kubernetes Official docs -> https://kubernetes.io/docs/home/
 Certification Promo -> https://devopscube.com/linux-foundation-promo/
 
 Video Tutorial by Nana -> https://www.techworld-with-nana.com/kubernetes-administrator-cka 
+
+DevOps Cube - https://bit.ly/m/bibinwilson
+
